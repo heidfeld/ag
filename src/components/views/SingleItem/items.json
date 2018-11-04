@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "identifier": "1",
+      "name": "Podgrzybek Brunatny",
+      "main_img": "pb1.jpg",
+      "parameters": {
+        "eatable": true,
+        "ring": false,
+        "stipe_colour_like": ["yellow"],
+        "stipe_diam_from": 10,
+        "stipe_diam_to": 50,
+        "stipe_height_from": 30,
+        "stipe_height_to": 120,
+        "forest": ["coniferous", "deciduous"],
+        "cap_colour_like": ["brown", "red"],
+        "cap_diam_from": 30,
+        "cap_diam_to": 150,
+        "pores_colour_like": ["yellow", "green"]
+      }
+    },
+    {
+      "identifier": "2",
+      "name": "Koźlarz Babka",
+      "main_img": "kb1.jpg",
+      "parameters": {
+        "eatable": true,
+        "ring": false,
+        "stipe_colour_like": ["white", "yellow"],
+        "stipe_diam_from": 10,
+        "stipe_diam_to": 35,
+        "stipe_height_from": 80,
+        "stipe_height_to": 200,
+        "forest": ["mixed", "deciduous"],
+        "cap_colour_like": ["brown"],
+        "cap_diam_from": 50,
+        "cap_diam_to": 200,
+        "pores_colour_like": ["yellow", "white"]
+      }
+    }
+  ]
+}
