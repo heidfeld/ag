@@ -1,0 +1,84 @@
+{
+  "items" : {
+    "true": {
+      "pl": "Tak",
+      "en": "Yes"
+    },
+    "false": {
+      "pl": "Nie",
+      "en": "No"
+    },
+    "eatable": {
+      "pl": "Jadalny",
+      "en": "Eatable"
+    },
+    "ring": {
+      "pl": "Pierścień",
+      "en": "Ring"
+    },
+    "stipe_colour_like": {
+      "pl": "Odcień trzonu",
+      "en": "Stipe tone"
+    },
+    "stipe_diam_from": {
+      "pl": "Średnica trzonu od",
+      "en": "Stipe diameter from"
+    },
+    "stipe_diam_to": {
+      "pl": "Średnica trzonu do",
+      "en": "Stipe diameter to"
+    },
+    "stipe_height_from": {
+      "pl": "Wysokość trzonu od",
+      "en": "Stipe height from"
+    },
+    "stipe_height_to": {
+      "pl": "Wysokość trzonu do",
+      "en": "Stipe height to"
+    },
+    "forest": {
+      "pl": "Las",
+      "en": "Forest"
+    },
+    "coniferous": {
+      "pl": "Iglasty",
+      "en": "Coniferous"
+    },
+    "deciduous": {
+      "pl": "Liściasty",
+      "en": "Deciduous"
+    },
+    "cap_colour_like": {
+      "pl": "Odcień kapelusza",
+      "en": "Cap tone"
+    },
+    "cap_diam_from": {
+      "pl": "Średnica kapelusza od",
+      "en": "Cap diameter from"
+    },
+    "cap_diam_to": {
+      "pl": "Średnica kapelusza do",
+      "en": "Cap diameter to"
+    },
+    "pores_colour_like": {
+      "pl": "Odcień porów",
+      "en": "Pores tone"
+    },
+    "yellow": {
+      "pl": "Żółty",
+      "en": "Yellow"
+    },
+    "red": {
+      "pl": "Czerwony",
+      "en": "Red"
+    },
+    "green": {
+      "pl": "Zielony",
+      "en": "Green"
+    },
+    "brown": {
+      "pl": "Brązowy",
+      "en": "Brown"
+    }
+  }
+}
